@@ -73,9 +73,9 @@ h1 {
 .order-button:focus {
   background: #404bbf;
 }
-.advantages {
-  background: #f4f4fd;
-}
+/* .advantages {
+  background: #fff;
+} */
 .advantages > h2 {
   font-weight: 700;
   font-size: 36px;
@@ -89,7 +89,6 @@ h1 {
   font-size: 20px;
   line-height: 1.2;
   letter-spacing: 0.02em;
-  text-align: center;
   color: #2e2f42;
 }
 .advantages > p {
@@ -97,6 +96,57 @@ h1 {
   font-size: 16px;
   line-height: 1.5;
   letter-spacing: 0.02em;
+  /* color: #434455; */
+}
+.team {
+  background: #f4f4fd;
+}
+.team > h2 {
+  font-weight: 700;
+  font-size: 36px;
+  line-height: 1.11111;
+  letter-spacing: 0.02em;
   text-align: center;
+  color: #2e2f42;
+}
+.team > h3 {
+  font-weight: 500;
+  font-size: 20px;
+  line-height: 1.2;
+  letter-spacing: 0.02em;
+  text-align: center;
+  color: #2e2f42;
+}
+.team > p {
+  /* font-weight: 400; */
+  font-size: 16px;
+  line-height: 1.5;
+  letter-spacing: 0.02em;
+  text-align: center;
+  /* color: #434455; */
+}
+.portfolio {
+  background: #fff;
+}
+.portfolio > h2 {
+  font-weight: 700;
+  font-size: 36px;
+  line-height: 1.11111;
+  letter-spacing: 0.02em;
+  text-align: center;
+  color: #191c4b;
+}
+.portfolio > h3 {
+  font-weight: 500;
+  font-size: 20px;
+  line-height: 1.2;
+  letter-spacing: 0.02em;
+  color: #2e2f42;
+}
+.portfolio > p {
+  /* font-weight: 400; */
+  font-size: 16px;
+  line-height: 1.5;
+  letter-spacing: 0.02em;
   /* color: #434455; */
 }
