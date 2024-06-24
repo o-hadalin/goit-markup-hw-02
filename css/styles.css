@@ -35,6 +35,9 @@ a:focus {
 .h-studio:active {
   text-decoration: underline;
 }
+.contacts {
+  font-style: normal;
+}
 .mail,
 .tel {
   font-weight: 400;
@@ -164,8 +167,9 @@ h1 {
   font-size: 18px;
   line-height: 1.17;
   letter-spacing: 0.03em;
-text-transform: uppercase;
-color: #4d5ae5;
+  text-transform: uppercase;
+  color: #4d5ae5;
 }
 .footer-main .logostudio {
   color: #f4f4fd;
+}
