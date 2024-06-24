@@ -1,5 +1,5 @@
 body {
-  font-family: "Raleway", "Roboto", sans-serif;
+  font-family: "Roboto", "Raleway", sans-serif;
   background: #fff;
   color: #434455;
 }
@@ -8,4 +8,43 @@ a {
 }
 ul {
   list-style-type: none;
+}
+.logoweb {
+  color: #4d5ae5;
+}
+.logoall {
+  font-weight: 700;
+  font-size: 18px;
+  line-height: 1.16667;
+  letter-spacing: 0.03em;
+  text-transform: uppercase;
+  color: #2e2f42;
+}
+.navigation > ul > li > a {
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 1.5;
+  letter-spacing: 0.02em;
+  color: #2e2f42;
+}
+.navigation > ul > li > a:hover,
+a:focus {
+  color: #404bbf;
+}
+.h-studio:active {
+  text-decoration: underline;
+}
+.mail,
+.tel {
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 1.5;
+  letter-spacing: 0.02em;
+  color: #434455;
+}
+.mail:hover,
+.mail:focus,
+.tel:hover,
+.tel:focus {
+  color: #404bbf;
 }
