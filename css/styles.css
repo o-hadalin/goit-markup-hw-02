@@ -1,5 +1,5 @@
 body {
-  font-family: "Roboto", "Raleway", sans-serif;
+  font-family: "Roboto", sans-serif;
   background: #fff;
   color: #434455;
 }
@@ -9,16 +9,17 @@ a {
 ul {
   list-style-type: none;
 }
-.logoweb {
-  color: #4d5ae5;
+.header-main .logostudio {
+  color: #2e2f42;
 }
 .logoall {
+  font-family: "Raleway", sans-serif;
   font-weight: 700;
   font-size: 18px;
   line-height: 1.16667;
   letter-spacing: 0.03em;
   text-transform: uppercase;
-  color: #2e2f42;
+  color: #4d5ae5;
 }
 .navigation > ul > li > a {
   font-weight: 500;
@@ -161,8 +162,10 @@ h1 {
 .footer-main > a {
   font-weight: 700;
   font-size: 18px;
-  line-height: 1.16667;
+  line-height: 1.17;
   letter-spacing: 0.03em;
-  text-transform: uppercase;
-  color: #f4f4fd;
+text-transform: uppercase;
+color: #4d5ae5;
 }
+.footer-main .logostudio {
+  color: #f4f4fd;
