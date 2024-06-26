@@ -1,7 +1,7 @@
 body {
   font-family: "Roboto", sans-serif;
   font-size: 16px;
-  background: #fff;
+  background-color-color: #fff;
   color: #434455;
 }
 a {
@@ -52,7 +52,7 @@ ul {
   color: #404bbf;
 }
 .order {
-  background: #2e2f42;
+  background-color: #2e2f42;
 }
 .order-titul {
   font-weight: 700;
@@ -64,7 +64,7 @@ ul {
   text-shadow: 4px 4px 0 rgba(0, 0, 0, 0.25);
 }
 .order-button {
-  background: #4d5ae5;
+  background-color: #4d5ae5;
   font-weight: 500;
   font-size: 16px;
   line-height: 1.5;
@@ -74,7 +74,7 @@ ul {
 }
 .order-button:hover,
 .order-button:focus {
-  background: #404bbf;
+  background-color: #404bbf;
 }
 .titul-two {
   font-weight: 700;
@@ -100,18 +100,18 @@ ul {
 }
 
 .team {
-  background: #f4f4fd;
+  background-color: #f4f4fd;
   color: #2e2f42;
   text-align: center;
 }
 .team-li {
-  background: #fff;
+  background-color: #fff;
 }
 .portfolio {
-  background: #fff;
+  background-color: #fff;
 }
 .footer-main {
-  background: #2e2f42;
+  background-color: #2e2f42;
   font-size: 16px;
   line-height: 1.5;
   letter-spacing: 0.02em;
@@ -120,6 +120,6 @@ ul {
 .logo-footer .span-studio {
   color: #f4f4fd;
 }
-.footer-main > .paragraph {
+.footer-main .paragraph {
   color: #f4f4fd;
 }
