@@ -76,9 +76,6 @@ ul {
 .order-button:focus {
   background: #404bbf;
 }
-.advantages {
-  color: #2e2f42;
-}
 .titul-two {
   font-weight: 700;
   font-size: 36px;
@@ -86,12 +83,14 @@ ul {
   letter-spacing: 0.02em;
   text-align: center;
   text-transform: capitalize;
+  color: #2e2f42;
 }
 .titul-three {
   font-weight: 500;
   font-size: 20px;
   line-height: 1.2;
   letter-spacing: 0.02em;
+  color: #2e2f42;
 }
 .paragraph {
   font-size: 16px;
@@ -99,6 +98,7 @@ ul {
   letter-spacing: 0.02em;
   color: #434455;
 }
+
 .team {
   background: #f4f4fd;
   color: #2e2f42;
@@ -110,44 +110,16 @@ ul {
 .portfolio {
   background: #fff;
 }
-.portfolio > h2 {
-  font-weight: 700;
-  font-size: 36px;
-  line-height: 1.11111;
-  letter-spacing: 0.02em;
-  text-align: center;
-  color: #191c4b;
-}
-.portfolio > h3 {
-  font-weight: 500;
-  font-size: 20px;
-  line-height: 1.2;
-  letter-spacing: 0.02em;
-  color: #2e2f42;
-}
-.portfolio > p {
-  /* font-weight: 400; */
-  font-size: 16px;
-  line-height: 1.5;
-  letter-spacing: 0.02em;
-  /* color: #434455; */
-}
 .footer-main {
   background: #2e2f42;
-  /* font-weight: 400; */
   font-size: 16px;
   line-height: 1.5;
   letter-spacing: 0.02em;
   color: #f4f4fd;
 }
-.footer-main > a {
-  font-weight: 700;
-  font-size: 18px;
-  line-height: 1.17;
-  letter-spacing: 0.03em;
-  text-transform: uppercase;
-  color: #4d5ae5;
+.logo-footer .span-studio {
+  color: #ffffff;
 }
-.footer-main .logostudio {
+.footer-main .paragraph {
   color: #f4f4fd;
 }
