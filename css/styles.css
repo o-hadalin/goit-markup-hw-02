@@ -120,6 +120,6 @@ ul {
 .logo-footer .span-studio {
   color: #ffffff;
 }
-.footer-main .paragraph {
+.footer-main > .paragraph {
   color: #f4f4fd;
 }
