@@ -85,6 +85,7 @@ ul {
   line-height: 1.11;
   letter-spacing: 0.02em;
   text-align: center;
+  text-transform: capitalize;
 }
 .titul-three {
   font-weight: 500;
@@ -96,11 +97,15 @@ ul {
   font-size: 16px;
   line-height: 1.5;
   letter-spacing: 0.02em;
+  color: #434455;
 }
 .team {
   background: #f4f4fd;
   color: #2e2f42;
   text-align: center;
+}
+.team-li {
+  background: #fff;
 }
 .portfolio {
   background: #fff;
