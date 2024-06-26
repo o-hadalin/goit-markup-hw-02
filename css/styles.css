@@ -54,14 +54,14 @@ ul {
 .order {
   background: #2e2f42;
 }
-h1 {
+.order-titul {
   font-weight: 700;
   font-size: 56px;
-  line-height: 1.07143;
+  line-height: 1.07;
   letter-spacing: 0.02em;
   text-align: center;
   color: #fff;
-  text-shadow: 0 4px 4px 0 rgba(0, 0, 0, 0.25);
+  text-shadow: 4px 4px 0 rgba(0, 0, 0, 0.25);
 }
 .order-button {
   background: #4d5ae5;
@@ -76,57 +76,31 @@ h1 {
 .order-button:focus {
   background: #404bbf;
 }
-/* .advantages {
-  background: #fff;
-} */
-.advantages > h2 {
-  font-weight: 700;
-  font-size: 36px;
-  line-height: 1.11111;
-  letter-spacing: 0.02em;
-  text-align: center;
+.advantages {
   color: #2e2f42;
 }
-.advantages > h3 {
+.titul-two {
+  font-weight: 700;
+  font-size: 36px;
+  line-height: 1.11;
+  letter-spacing: 0.02em;
+  text-align: center;
+}
+.titul-three {
   font-weight: 500;
   font-size: 20px;
   line-height: 1.2;
   letter-spacing: 0.02em;
-  color: #2e2f42;
 }
-.advantages > p {
-  /* font-weight: 400; */
+.paragraph {
   font-size: 16px;
   line-height: 1.5;
   letter-spacing: 0.02em;
-  /* color: #434455; */
 }
 .team {
   background: #f4f4fd;
-}
-.team > h2 {
-  font-weight: 700;
-  font-size: 36px;
-  line-height: 1.11111;
-  letter-spacing: 0.02em;
-  text-align: center;
   color: #2e2f42;
-}
-.team > h3 {
-  font-weight: 500;
-  font-size: 20px;
-  line-height: 1.2;
-  letter-spacing: 0.02em;
   text-align: center;
-  color: #2e2f42;
-}
-.team > p {
-  /* font-weight: 400; */
-  font-size: 16px;
-  line-height: 1.5;
-  letter-spacing: 0.02em;
-  text-align: center;
-  /* color: #434455; */
 }
 .portfolio {
   background: #fff;
